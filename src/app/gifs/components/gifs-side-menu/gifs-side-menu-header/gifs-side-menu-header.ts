@@ -10,6 +10,7 @@ import { environment } from '@environments/environment';
 })
 export class GifsSideMenuHeader {
 
+  /**Colocar del environment de producción */
   envs = environment
 
 }

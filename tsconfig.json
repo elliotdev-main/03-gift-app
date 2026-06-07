@@ -3,8 +3,10 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    // root
     "baseUrl": ".",
     "paths": {
+      // alias que apunta directamente al path
       "@environments/*": ["src/environments/*"]
     },
     "strict": true,
